@@ -14,7 +14,8 @@ A continuación se detalla el propósito de cada archivo en este repositorio.
 
 * **`background-day.png`**: La imagen de fondo principal para el escenario del juego.
 * **`base.png`**: La imagen del suelo. Se desplazará por la parte inferior de la pantalla. El juego terminará si el pájaro la toca.
-* **`pipe-green.png`**: La imagen para los obstáculos (las tuberías). Se usará tanto para la tubería inferior como para la superior (invertida).
+* **`pipe-green Up.png`**: La imagen para los obstáculos (las tuberías). Se usará para la tuberia superior.
+* ** **pipe-green Down.png**: La imagen para los obstáculos (las tuberías). Se usará para la tuberia inferior.
 * **`yellowbird-upflap.png`, `yellowbird-midflap.png`, `yellowbird-downflap.png`**: Son los tres fotogramas (frames) que componen la animación del aleteo del pájaro. El código deberá alternar entre estas tres imágenes para que el pájaro parezca que está volando.
 * **`message.png`**: Una imagen de bienvenida o de instrucciones, como "Get Ready!", que se muestra al inicio del juego antes de que comience la acción.
 * **`gameover.png`**: La imagen que se muestra en pantalla cuando la partida termina.
